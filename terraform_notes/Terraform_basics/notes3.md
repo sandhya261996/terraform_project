@@ -82,7 +82,7 @@ Plugins enable developers to extend Terraform by writing new plugins or compilin
 
 There are two parts to Terraform: **Terraform Core** and **Terraform Plugins**. **Terraform Core** provides the entry point to `terraform` and then it enables people to build upon it with plugins.
 
-## Exam Objectives / Testing
+## Exam Objectives
 
 <details>
 <summary>Install and version Terraform providers</summary>
