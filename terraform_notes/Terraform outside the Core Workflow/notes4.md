@@ -94,7 +94,7 @@ To persist logs you can set the `TF_LOG_PATH`.
 
 <summary>Summary</summary>
 
-# Terraform Outside of the Core Workflow - Spaced Repetition (Anki) Cards
+# Terraform Outside of the Core Workflow 
 
 What tool do you use when you want to import in existing infrastructure under Terraform management? `terraform import`
 
