@@ -11,10 +11,10 @@ When importing, you must manually build a `resource` configuration block for the
 Importing infrastructure involves five steps:
 
 1) Identify the existing infrastructure you will import.
-1) Import infrastructure into your Terraform state file.
-1) Write Terraform configuration that matches that infrastructure.
-1) Review the Terraform plan to ensure the configuration matches the expected state and infrastructure.
-1) Apply the configuration to update your Terraform state.
+2) Import infrastructure into your Terraform state file.
+3) Write Terraform configuration that matches that infrastructure.
+4) Review the Terraform plan to ensure the configuration matches the expected state and infrastructure.
+5) Apply the configuration to update your Terraform state.
 
 
 #### **Commands**
