@@ -23,7 +23,7 @@ Please bear in mind that in the notes I am directly studying towards the **exam 
 
 ## Practise Exams
 
-I would highly recommend that you sit the [practise exams from Bryan Krausen](https://www.udemy.com/course/terraform-associate-practice-exam). The study outlined in this repo took me to an 80% average on his first two practise exams, but by the 5th I was getting 90%+. The practise exams were a close emulation of the real deal. You can find discount codes on [his public repo](https://github.com/btkrausen).
+I would highly recommend that you sit the [practise exams from Bryan Krausen](https://www.udemy.com/course/terraform-associate-practice-exam).You can find discount codes on [his public repo](https://github.com/btkrausen).
 
 ## [Exam Objectives](https://www.hashicorp.com/certification/terraform-associate)
 
