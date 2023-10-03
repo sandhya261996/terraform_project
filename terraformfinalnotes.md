@@ -1,5 +1,12 @@
 > ## Final Terraform Notes Summary
 <details>
+<ol>
+  <li>Who developed Terraform?	Hashicorp</li>
+  <li>What is Terraform used for?	Infrastructure as code</li>
+  <li>When defining resources in Terraform, you could say it is written in a way that is?	Declarative</li>
+</ol>
+
+
 Who developed Terraform?	Hashicorp
 What is Terraform used for?	Infrastructure as code
 When defining resources in Terraform, you could say it is written in a way that is?	Declarative
