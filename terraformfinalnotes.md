@@ -1,3 +1,5 @@
+> ## Final Terraform Notes Summary
+<details>
 Who developed Terraform?	Hashicorp
 What is Terraform used for?	Infrastructure as code
 When defining resources in Terraform, you could say it is written in a way that is?	Declarative
@@ -167,4 +169,5 @@ When using Sentinel policies to define and enforce policies in Terraform, when d
 To specify the version of Terraform provider that is required, what block do you use?	`required_providers`
 How do you update providers in Terraform?	`terraform init -upgrade`
 In order to use the terraform console command, the CLI must be able to do what?	Lock the state file
-What is an explicit dependency in Terraform?	When you specify the `[depe
+What is an explicit dependency in Terraform?	When you specify the `[depend_on]` argument to a resource
+</details>
