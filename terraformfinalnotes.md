@@ -4,14 +4,18 @@
   <li>Who developed Terraform?	Hashicorp</li>
   <li>What is Terraform used for?	Infrastructure as code</li>
   <li>When defining resources in Terraform, you could say it is written in a way that is?	Declarative</li>
-</ol>
+<li>Can you compare the abilities of Terraform and Ansible?	Terraform is better for setting up infrastructure, and Ansible is better for configuring that infrastructure</li>
+<li>What are the two inputs of Terraform?	The terraform config, and the current state</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
-
-Who developed Terraform?	Hashicorp
-What is Terraform used for?	Infrastructure as code
-When defining resources in Terraform, you could say it is written in a way that is?	Declarative
-What is Terraform written in?	HashiCorp Configuration Language (HCL) or JSON
-Can you compare the abilities of Terraform and Ansible?	Terraform is better for setting up infrastructure, and Ansible is better for configuring that infrastructure
 What are the two inputs of Terraform?	The terraform config, and the current state
 The `terraform{}` block contains what?	Terraform settings
 What does the `provider{}` block do in Terraform?	Configures providers
