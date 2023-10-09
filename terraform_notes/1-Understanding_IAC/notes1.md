@@ -1,50 +1,52 @@
-The problem
+# Understanding IaC - Spaced Repetition (Anki) Cards
 
-Standing up infrastructure in a traditional datacenter where you process work through tickets is slow, inconsistent and hard to scale.
+What is Infrastructure as Code (IaC)? The practice of managing and provisioning infrastructure resources using code
 
-The solution - IaC
+What are the advantages of IaC patterns? 
+{{c1::automation}} 
+{{c2::consistency}}
+{{c3::scalability}} 
+{{c4::version control}}
 
->> How do we take the process of 'ClickOps' for standing up infrastructure and codify the process? We do this through IaC.
+What is the purpose of version control in IaC? It allows for tracking of infrastructure configurations over time
 
->> IaC is a practise that enables the creation of infrastructure and services using declarative      configuration files. This allows for a consistent and scalable environment that is fully automated and tracked through version control.
+How does IaC improve collaboration among teams? Teams can work together by using a shared, version-controlled codebase for infrastructure management
 
-1. Explain what IaC is
->> The practice of managing and provisioning infrastructure resources using code
+How does IaC provide scalability? Through automating the provisioning and scaling of infrastructure resources 
 
-2. Describe advantages of IaC patterns
->> Automation
-The click heavy process of standing up infrastructure can now be codified into configuration file, saving large amounts of time
->> Consistency
-Our infrastructure should be consistent as we're using an idempotent process to stand it up
->> Scalability
-Traditional datacenters with hypervisors had limited scale by nature their manual processes
->> Version control
-Who changed what
->> Transparency of documentation
-Tracking the changes of the infrastructure over time
+How does IaC provide consistency? By using infrastructure configurations that are deployed in a repeatable way
 
->>> Summary >>>
+## Notes
 
->> What is Infrastructure as Code (IaC)?
+**The problem**
 
- ::The practice of managing and provisioning infrastructure resources using code
+Standing up infrastructure in a traditional datacenter where you process work through tickets is slow, inconsistent and hard to scale. 
 
->> What are the advantages of IaC patterns?
+**The solution - IaC**
 
- :: automation,consistency ,scalability, version control
+How do we take the process of 'ClickOps' for standing up infrastructure and codify the process? We do this through **IaC**.
 
->> What is the purpose of version control in IaC? 
+**IaC** is a practise that enables the creation of infrastructure and services using declarative configuration files. This allows for a consistent and scalable environment that is fully automated and tracked through version control.
 
-:: It allows for tracking of infrastructure configurations over time
+## Exam Objectives 
 
->> How does IaC improve collaboration among teams? 
+<details>
+<summary>Explain what IaC is</summary>
 
-:: Teams can work together by using a shared, version-controlled codebase for infrastructure management
+- The practice of managing and provisioning infrastructure resources using code
+</details>
 
->> How does IaC provide scalability? 
+<details>
+<summary>Describe advantages of IaC patterns</summary>
 
-:: Through automating the provisioning and scaling of infrastructure resources
-
->> How does IaC provide consistency?
-
- :: By using infrastructure configurations that are deployed in a repeatable way
+- Automation
+  - The click heavy process of standing up infrastructure can now be codified into configuration file, saving large amounts of time 
+- Consistency
+  - Our infrastructure should be consistent as we're using an idempotent process to stand it up
+- Scalability
+  - Traditional datacenters with hypervisors had limited scale by nature their manual processes 
+- Version control
+  - Who changed what
+  - Transparency of documentation
+  - Tracking the changes of the infrastructure over time
+</details>
