@@ -67,7 +67,7 @@ You can set `TF_LOG` to one of the log levels `TRACE`, `DEBUG`, `INFO`, `WARN` o
 
 To persist logs you can set the `TF_LOG_PATH`. 
 
-## Exam Objectives / Testing
+## Exam Objectives 
 
 <details>
 <summary>Describe when to use terraform import to import existing infrastructure into your Terraform state</summary>
